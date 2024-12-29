@@ -15,7 +15,7 @@ Hi, my name is Ali! I’m a Computer Science undergraduate in my 6th semester wi
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AliShoaibHassan&theme=dark_lover)](https://github.com/AliShoaibHassan/github-profile-trophy)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=AliShoaibHassan&theme=dark_lover)](https://github.com/AliShoaibHassan/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?user=AliShoaibHassan&type=horizontal&theme=radical)
