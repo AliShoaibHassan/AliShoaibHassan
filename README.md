@@ -10,7 +10,7 @@ Hi, my name is Ali! I’m a Computer Science undergraduate in my 6th semester wi
 
 # 📊 GitHub Stats:
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliShoaibHassan&hide=contribs&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliShoaibHassan&theme=chartreuse-dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliShoaibHassan&hide_progress=true&theme=chartreuse-dark)<br>
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=AliShoaibHassan&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
