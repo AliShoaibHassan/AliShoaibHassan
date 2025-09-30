@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi, my name is Ali! I’m a Computer Science undergraduate in my 7th semester with a strong interest in Artificial Intelligence, particularly Generative AI. I have a solid foundation in Python, Java, Flutter and C++ along with experience in Data Structures and Algorithms. My technical skills include working with libraries like NumPy, Pandas, Matplotlib, and tools such as PyTorch for building AI models.<br><br>I’m currently focused on exploring deep learning techniques and working with models for text-to-video generation and image-to-video applications. I also have hands-on experience with web development using HTML, CSS, JavaScript.<br><br>I'm passionate about learning cutting-edge AI technologies, building practical solutions, and collaborating on innovative projects. Feel free to connect if you’re interested in working on AI, ML, or web-based applications!
+I’m a final-year Computer Science undergraduate with a strong passion for Artificial Intelligence and Full-Stack Development. My interests lie particularly in Generative AI and building intelligent, end-to-end web solutions.
+
+I have a solid foundation in Python, Java, C++, and Flutter, along with strong problem-solving skills in Data Structures and Algorithms. My AI experience includes working with libraries such as NumPy, Pandas, Matplotlib, and frameworks like PyTorch for developing and experimenting with machine learning and deep learning models.
+
+On the development side, I have hands-on experience building full-stack applications using HTML, CSS, JavaScript, Node.js, Express, and MongoDB, focusing on creating scalable backends and seamless frontends.
+
+Currently, I’m exploring deep learning techniques and working on text-to-video and image-to-video generation models, while also building practical web solutions that integrate AI capabilities.
+
+I’m passionate about learning cutting-edge technologies, solving real-world problems, and collaborating on impactful projects. Feel free to connect if you’re interested in working on AI, machine learning, or web-based applications!
 
 
 ## 🌐 Socials:
