@@ -1,13 +1,11 @@
 # 💫 About Me:
-I’m a final-year Computer Science undergraduate with a strong passion for Artificial Intelligence and Full-Stack Development. My interests lie particularly in Generative AI and building intelligent, end-to-end web solutions.
+I’m a final-year Computer Science undergraduate with a strong focus on software development, particularly full-stack web development . I enjoy designing and building scalable, high-performance web applications and crafting robust backend architectures that power seamless user experiences.
 
-I have a solid foundation in Python, Java, C++, and Flutter, along with strong problem-solving skills in Data Structures and Algorithms. My AI experience includes working with libraries such as NumPy, Pandas, Matplotlib, and frameworks like PyTorch for developing and experimenting with machine learning and deep learning models.
+I have hands-on experience developing full-stack solutions using HTML, CSS, JavaScript, Node.js, Express, and MongoDB, with a particular emphasis on backend development, API design, and database management. My strong foundation in JavaScript, Python combined with solid skills in Data Structures and Algorithms, enables me to build efficient and optimized solutions.
 
-On the development side, I have hands-on experience building full-stack applications using HTML, CSS, JavaScript, Node.js, Express, and MongoDB, focusing on creating scalable backends and seamless frontends.
+Alongside my web development work, I’m deeply passionate about Artificial Intelligence, especially Generative AI. I have worked with libraries like NumPy, Pandas, and Matplotlib, and frameworks such as PyTorch for building and experimenting with machine learning and deep learning models. Currently, I’m exploring text-to-video and image-to-video generation and integrating AI-driven capabilities into full-stack applications.
 
-Currently, I’m exploring deep learning techniques and working on text-to-video and image-to-video generation models, while also building practical web solutions that integrate AI capabilities.
-
-I’m passionate about learning cutting-edge technologies, solving real-world problems, and collaborating on impactful projects. Feel free to connect if you’re interested in working on AI, machine learning, or web-based applications!
+I’m driven by a desire to solve real-world problems, learn cutting-edge technologies, and collaborate on impactful projects. Feel free to connect if you’re interested in working on backend systems, full-stack applications, or AI-powered solutions!
 
 
 ## 🌐 Socials:
