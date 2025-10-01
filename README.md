@@ -23,7 +23,7 @@ I’m driven by a desire to solve real-world problems, learn cutting-edge techno
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AliShoaibHassan&theme=dark_lover)](https://github.com/AliShoaibHassan/github-profile-trophy)
 
-![Snake animation](https://github.com/AliShoaibHassan/AliShoaibHassan/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/AliShoaibHassan/AliShoaibHassan/blob/output/snake.svg" alt="Snake animation" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?user=AliShoaibHassan&type=horizontal&theme=radical)
