@@ -1,11 +1,11 @@
 # 💫 About Me:
-I’m a final-year Computer Science undergraduate with a strong focus on software development, particularly full-stack web development . I enjoy designing and building scalable, high-performance web applications and crafting robust backend architectures that power seamless user experiences.
+I’m a Software Engineer and Computer Science graduate from COMSATS University Islamabad, currently working at Avirso. I build production-ready full-stack applications, with a stronger focus on backend systems, API design, databases, deployment, and observability.
 
-I have hands-on experience developing full-stack solutions using HTML, CSS, JavaScript, Node.js, Express, and MongoDB, with a particular emphasis on backend development, API design, and database management. My strong foundation in JavaScript, Python combined with solid skills in Data Structures and Algorithms, enables me to build efficient and optimized solutions.
+My primary stack includes TypeScript, React, Next.js, Node.js, NestJS, Express, PostgreSQL, and MongoDB. I also work with Docker, Azure, GitHub Actions, BullMQ, Sentry, PostHog, and GA4. My recent work includes contributing to a ROSCA product available to 100K+ users, improving page-load times by 50–70%, reducing infrastructure costs by 72%, and building AI-powered and subscription-based platforms.
 
-Alongside my web development work, I’m deeply passionate about Artificial Intelligence, especially Generative AI. I have worked with libraries like NumPy, Pandas, and Matplotlib, and frameworks such as PyTorch for building and experimenting with machine learning and deep learning models. Currently, I’m exploring text-to-video and image-to-video generation and integrating AI-driven capabilities into full-stack applications.
+Outside product engineering, I co-founded ResearchCircle, an undergraduate research community with more than 600 members. I’m also contributing to ongoing research in language-model safety.
 
-I’m driven by a desire to solve real-world problems, learn cutting-edge technologies, and collaborate on impactful projects. Feel free to connect if you’re interested in working on backend systems, full-stack applications, or AI-powered solutions!
+I’m interested in backend architecture, full-stack product engineering, AI workflows, developer infrastructure, and research collaborations.
 
 
 ## 🌐 Socials:
